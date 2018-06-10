@@ -1,0 +1,11 @@
+{
+    "name": "karous/php-cs",
+    "description": "my Coding Style Standart",
+    "keywords": ["karous", "cs", "coding", "style"],
+    "authors": [
+        {
+            "name": "Nabil Karous",
+            "email": "karousn@gmail.com"
+        }
+    ]
+}
